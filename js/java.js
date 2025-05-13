@@ -16,12 +16,17 @@
 
 // let texto = document.querySelector('#info_text')
 
-frase = " Meu Nome João Pedro Silva Antunes";
-frase2 = " Eu tenho 18 anos";
-frase3 = " Im developer front-end Junior";
+frase = "Meu nome é João Pedro Silva Antunes.";
+frase2 = "Tenho 19 anos.";
+frase3 = "Sou Developer Backend trainee.";
+frase4 = "Estudante de ADS na Faculdade Impacta.";
+frase5 = "Pratico programação desde os 15 anos.";
+frase6 = "Meu objetivo é trabalhar com tecnologia e programação.";
+frase7 = "Estou disponível para novas experiências e conexões.";
+frase8 = "Confira meus projetos no GitHub: github.com/Joaopedro-SA.";
 
 const typeWrite = (elemento) => {
-  const palavras = [frase, frase2, frase3];
+  const palavras = [frase, frase2, frase3, frase4, frase5, frase6, frase7, frase8];
   let palavraIndex = 0;
 
   const escreverPalavra = () => {
@@ -109,7 +114,7 @@ function isInViewport(element) {
     rect.top >= 0 &&
     rect.left >= 0 &&
     rect.bottom <=
-      (window.innerHeight || document.documentElement.clientHeight) &&
+    (window.innerHeight || document.documentElement.clientHeight) &&
     rect.right <= (window.innerWidth || document.documentElement.clientWidth)
   );
 }
