@@ -11,6 +11,10 @@ body {
 
 }
 
+#buttonFecha {
+     color: white;
+     background-color: white;
+}
 
 .nav_img {
      border: 2px solid white;
@@ -155,21 +159,34 @@ body {
 
 }
 
-.button_link_nav22 {
-     background-color: rgba(255, 0, 0, 0);
-     outline: none;
-     border: 1px solid white;
-     color: rgb(255, 255, 255);
-     border-radius: 100px;
-     padding: 5%;
-     min-width: fit-content;
-     width: 300px;
+.button_menu {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     gap: 15px;
+     background-color: white;
+     border-radius: 10px;
+     min-width: 120px;
+     border: 3px solid rgb(0, 247, 255);
 
 }
 
-.button_link_nav22:hover {
-     border: 1px solid rgb(255, 0, 0);
-     padding: 5%;
+.button_menu:hover {
+     background-color: rgb(0, 247, 255);
+     color: black;
+     transition: 0.3s;
+     border: 3px solid rgb(0, 0, 0);
+     text-decoration: none;
+
+}
+
+.text_button_menu {
+     position: relative;
+     bottom: -0.4rem;
+}
+
+.link_menu_lateral {
+     text-decoration: none;
 }
 
 .mudar_cor_css {
