@@ -96,11 +96,11 @@ let index_link = 0;
 
 let frase_info = `   
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta e formado em Técnico de
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) da Faculdade Impacta e formado em curso Técnico de
  TI pela ETEC. Tenho habilidades em solucionar problemas por meio da programação e na implementação de 
  ferramentas amplamente utilizadas no mercado. Estou em constante aprendizado para me atualizar e aprimorar
   na área.
-        ¬ Atualmente, trabalho como desenvolvedor de suporte técnico na IBsoftware, prestando suporte a sistemas legados feitos em JAVA J2EE. Além disso, desenvolvo projetos pessoais que podem ser conferidos no meu portfólio: github.com/Joaopedro-SA. Estou à disposição para novas experiências e conexões.
+        ¬ Atualmente, trabalho como desenvolvedor de suporte técnico na IBsoftware, prestando suporte a sistemas legados feitos em JAVA. Além disso, desenvolvo projetos pessoais que podem ser conferidos no meu portfólio: github.com/Joaopedro-SA. Estou à disposição para novas experiências e conexões.
         ¬ 
 Desde os 15 anos, sou apaixonado por programação e, desde os 12, por informática. Gosto de ver desafios ou ideias sendo aplicados em soluções lógicas através do código. 
         ¬  Estou disponível para novas experiências e
