@@ -230,13 +230,6 @@ body {
      border: 2px solid rgb(255, 0, 0);
 }
 
-.buttonTrocaCor {
-     position: relative;
-     left: 20px;
-     border-radius: 100rem;
-     padding: 6px;
-}
-
 .img_corpo {
      margin: 0%;
      background-image: url('https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif');

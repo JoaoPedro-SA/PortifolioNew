@@ -151,11 +151,3 @@ googleTranslateElementInit();
 
 
 
-
-// let botaopreto = document.querySelector('.mudar_cor_css');
-// let linkEstilo = document.querySelector('.stylesheet '); // Seleciona o link do CSS atual
-
-// botaopreto.addEventListener('click', function () {
-//   linkEstilo.href = (linkEstilo.href.includes('style.css')) ? 'blank.css' : 'style.css';
-// });
-
